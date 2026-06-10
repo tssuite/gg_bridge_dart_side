@@ -32,9 +32,12 @@ void main() {
       test('should allow to run the code from command line', () async {
         await capturePrint(
           ggLog: messages.add,
-          code: () async => await runner.run(
-            ['GgBridgeDartSide', 'my-command', '--input', 'foo'],
-          ),
+          code: () async => await runner.run([
+            'GgBridgeDartSide',
+            'my-command',
+            '--input',
+            'foo',
+          ]),
         );
         expect(messages, contains('Running my-command with param foo'));
       });
