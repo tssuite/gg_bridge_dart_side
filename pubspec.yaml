@@ -1,6 +1,6 @@
 name: gg_bridge_dart_side
 description: gg_bridge_dart_side is the dart side of a dart - bridge - typescript repo trio.
-version: 1.0.2
+version: 1.0.3
 repository: https://github.com/tssuite/gg_bridge_dart_side
 publish_to: none
 
@@ -22,3 +22,5 @@ dev_dependencies:
 
 executables:
   gg_bridge_dart_side: bin/gg_bridge_dart_side.dart
+
+# test-005

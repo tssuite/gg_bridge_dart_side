@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.3] - 2026-07-01
+
+### Changed
+
+- test
+
 ## [1.0.2] - 2026-06-17
 
 ## [1.0.1] - 2026-06-10
@@ -16,5 +22,6 @@
 - Rename project
 - Update README.md
 
+[1.0.3]: https://github.com/tssuite/gg_bridge_dart_side/compare/1.0.2...1.0.3
 [1.0.2]: https://github.com/tssuite/gg_bridge_dart_side/compare/1.0.1...1.0.2
 [1.0.1]: https://github.com/tssuite/gg_bridge_dart_side/tag/%tag
