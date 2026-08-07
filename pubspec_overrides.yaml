@@ -6,5 +6,11 @@
 dependency_overrides:
   gg_args:
     path: ../../ggsuite/gg_args
+  gg_capture_print:
+    path: ../../ggsuite/gg_capture_print
+  gg_console_colors:
+    path: ../../ggsuite/gg_console_colors
   gg_log:
     path: ../../ggsuite/gg_log
+  gg_process:
+    path: ../../ggsuite/gg_process
