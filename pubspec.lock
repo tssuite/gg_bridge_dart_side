@@ -111,7 +111,7 @@ packages:
       path: "../../ggsuite/gg_args"
       relative: true
     source: path
-    version: "2.2.0"
+    version: "3.0.0"
   gg_capture_print:
     dependency: "direct dev"
     description:
