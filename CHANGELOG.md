@@ -1,5 +1,16 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Setup branch rules for tssuite repos
+- Work on pipeline
+
+### Fixed
+
+- Fix pipelines
+
 ## 1.0.4 - 2026-08-11
 
 ### Changed
