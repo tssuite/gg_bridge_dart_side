@@ -5,6 +5,7 @@
 ### Changed
 
 - Setup branch rules for tssuite repos
+- Work on pipeline
 
 ### Fixed
 
