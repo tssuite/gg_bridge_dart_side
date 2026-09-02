@@ -1,11 +1,13 @@
 # Changelog
 
-## Unreleased
+## 1.0.5 - 2026-09-02
 
 ### Changed
 
 - Setup branch rules for tssuite repos
 - Work on pipeline
+- Roll out the dna_tssuite DNA
+- Drop the legacy quick-check workflow superseded by the DNA quick check
 
 ### Fixed
 

@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `gg_bridge_dart_side` package.
-const String ggBridgeDartSideVersion = '1.0.4';
+const String ggBridgeDartSideVersion = '1.0.5';
