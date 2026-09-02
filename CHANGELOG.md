@@ -7,6 +7,7 @@
 - Setup branch rules for tssuite repos
 - Work on pipeline
 - Roll out the dna_tssuite DNA
+- Drop the legacy quick-check workflow superseded by the DNA quick check
 
 ### Fixed
 
