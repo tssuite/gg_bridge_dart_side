@@ -6,6 +6,7 @@
 
 - Setup branch rules for tssuite repos
 - Work on pipeline
+- Roll out the dna_tssuite DNA
 
 ### Fixed
 
