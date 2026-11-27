@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Upgrade the SDK and the DNA and run migrate_doc_structure.dart
+
 ## 1.0.5 - 2026-09-02
 
 ### Changed
